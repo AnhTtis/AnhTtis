@@ -1,68 +1,124 @@
-<h1>Hi, I'm Trí (Nguyễn Hữu Anh Trí) 👋</h1>
+<div align="center">
 
-<p>🎓 Final-year Information Technology student at <b>VNUHCM - University of Science</b>, focusing on AI and Data Science.</p>
-<p>🔍 Currently open to internship opportunities in <b>AI Engineering / Data Science</b>.</p>
-<p>📫 Reach me at
-  <a href="https://www.linkedin.com/in/tr%C3%AD-nguy%E1%BB%85n-h%E1%BB%AFu-anh-506b5a286/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or
-  <a href="mailto:nguyenhuuanhtri866@gmail.com">Gmail</a>.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Tr%C3%AD%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Nguy%E1%BB%85n%20H%E1%BB%AFu%20Anh%20Tr%C3%AD%20%C2%B7%20AI%20Engineering%20%26%20Data%20Science&descSize=17&descAlignY=58&animation=fadeIn" />
+
+<a href="https://github.com/AnhTtis">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=620&lines=Final-year+IT+student+%40+HCMUS;Building+RAG+pipelines+and+LLM+apps;Turning+data+into+models+and+dashboards;Open+to+AI+%2F+Data+internships" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/tr%C3%AD-nguy%E1%BB%85n-h%E1%BB%AFu-anh-506b5a286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nguyenhuuanhtri866@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/Ho_Chi_Minh_City-Vietnam-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<br />
+</div>
 
-<h2>🛠️ Technology</h2>
+## 🙋 About me
 
-<p><b>AI &amp; Machine Learning</b><br />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
-  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="Gemini API" src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+- 🎓 Final-year **Information Technology** student at **VNUHCM - University of Science**, focusing on AI and Data Science.
+- 🔭 Recently built a **retrieval-augmented generation** pipeline for Vietnamese legal text (ALQAC 2026).
+- 🌱 Interested in **LLM applications, information retrieval and applied machine learning**.
+- 💼 Open to **AI Engineering / Data Science internships**.
 
-<p><b>Data Science &amp; Analytics</b><br />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img alt="MS SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+## 🛠️ Tech stack
 
-<p><b>Languages, Backend &amp; Tools</b><br />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="190"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,c,cpp,julia,mysql&perline=10" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Machine Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="ML frameworks" /><br />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/LightGBM-6DB33F?style=flat-square" alt="LightGBM" />
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square" alt="BeautifulSoup" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Apps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,firebase&perline=10" alt="Backend" /><br />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=10" alt="Tools" /></td>
+  </tr>
+</table>
 
-<br />
+## 🚀 Featured projects
 
-<h2>🚀 Featured Projects</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://github.com/AnhTtis/ALAQ_Competition">ALQAC 2026 Legal RAG</a></h3>
+      <p>Vietnamese legal case outcome prediction with evidence retrieval, using only open-weight LLMs under 10B parameters.</p>
+      <ul>
+        <li>Hybrid law retrieval: BM25 + BGE-M3, RRF fusion, cross-encoder rerank</li>
+        <li>Multi-round agent over the organizers' case API</li>
+        <li>Qwen3-8B reasoning with self-consistency voting</li>
+      </ul>
+      <img src="https://img.shields.io/badge/RAG-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-8E75B2?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Real Estate Analytics &amp; AI Assistant</h3>
+      <p>End-to-end platform for the HCMC housing market, from data collection to an AI chatbot.</p>
+      <ul>
+        <li><a href="https://github.com/AnhTtis/Crawling-data-from-Nha-Tot">ETL</a> from Nha Tot APIs into Supabase</li>
+        <li><a href="https://github.com/AnhTtis/Machine-Learning-for-Housing-Price">Price models</a> per property type (RF, LightGBM, XGBoost)</li>
+        <li>Power BI dashboard and a <a href="https://github.com/AnhTtis/DataVisualize-Chatbox">Gemini chatbot</a></li>
+      </ul>
+      <img src="https://img.shields.io/badge/ETL-0f2027?style=flat-square" /> <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍜 <a href="https://github.com/Shinoaki0145/Restaurant-recommendation-system">Restaurant Recommendation</a></h3>
+      <p>Search engine that reads Vietnamese queries and ranks places by text, location, price, rating and service.</p>
+      <ul>
+        <li>Ranker benchmarked across XGBoost, LightGBM and Ridge</li>
+        <li>Model served through a FastAPI backend</li>
+      </ul>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>👻 <a href="https://github.com/AnhTtis/Pac-man">Pac-Man AI Search</a></h3>
+      <p>Ghost agents that chase Pac-Man with classic search algorithms.</p>
+      <ul>
+        <li>BFS, DFS, UCS and A* implementations</li>
+        <li>Compared by time, memory and expanded nodes</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Search_Algorithms-2c5364?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Stack |
-|---|---|---|
-| [ALQAC 2026 Legal RAG](https://github.com/AnhTtis/ALAQ_Competition) | Vietnamese legal case outcome prediction with evidence retrieval: hybrid law retrieval (BM25 + BGE-M3 + RRF + cross-encoder rerank), a multi-round case-API agent and Qwen3-8B reasoning with self-consistency voting. | Python, RAG, LLM |
-| Real Estate Analytics & AI Assistant ([Chatbot](https://github.com/AnhTtis/DataVisualize-Chatbox) · [Crawler](https://github.com/AnhTtis/Crawling-data-from-Nha-Tot) · [Price ML](https://github.com/AnhTtis/Machine-Learning-for-Housing-Price)) | ETL from Nha Tot APIs into Supabase, per-property-type price models (RF, LightGBM, XGBoost), Power BI dashboard and a Gemini data-analysis chatbot. | Python, ML, Power BI, Gemini |
-| [Restaurant Recommendation System](https://github.com/Shinoaki0145/Restaurant-recommendation-system) | Search engine for Vietnamese queries ranking places by text, location, price, rating and service; ranker benchmarked across XGBoost, LightGBM and Ridge, served with FastAPI. | React, FastAPI, XGBoost |
-| [Pac-Man AI Search](https://github.com/AnhTtis/Pac-man) | Ghost agents chasing Pac-Man with BFS, DFS, UCS and A*, compared by time, memory and expanded nodes. | Python, Search |
+## 📊 GitHub stats
 
-<br />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnhTtis&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2F80ED&icon_color=2F80ED&text_color=7D8590&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTtis&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&hide_border=true&bg_color=00000000&title_color=2F80ED&text_color=7D8590" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=AnhTtis&hide_border=true&background=00000000&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=7D8590&dates=7D8590&currStreakNum=7D8590&sideNums=7D8590" alt="GitHub streak" />
+</div>
 
-<h2>📊 GitHub Stats</h2>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnhTtis&show_icons=true&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTtis&layout=compact&hide_border=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" />

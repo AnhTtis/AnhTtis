@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Tr%C3%AD&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Nguy%E1%BB%85n%20H%E1%BB%AFu%20Anh%20Tr%C3%AD%20%C2%B7%20AI%20Engineering%20%26%20Data%20Science&descSize=17&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Tr%C3%AD&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Nguy%E1%BB%85n%20H%E1%BB%AFu%20Anh%20Tr%C3%AD%20%C2%B7%20AI%20Engineering%20and%20Data%20Science&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/AnhTtis">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=620&lines=Final-year+IT+student+%40+HCMUS;Building+RAG+pipelines+and+LLM+apps;Turning+data+into+models+and+dashboards;Open+to+AI+%2F+Data+internships" alt="Typing intro" />
